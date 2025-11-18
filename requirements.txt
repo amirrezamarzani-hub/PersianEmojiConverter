@@ -1,0 +1,9 @@
+streamlit
+hazm
+sentence-transformers
+numpy
+scikit-learn
+faiss-cpu
+sqlite-utils
+emoji
+tqdm
